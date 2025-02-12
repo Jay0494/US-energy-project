@@ -50,5 +50,3 @@ This project focuses on analyzing U.S. energy production and consumption trends,
 
 In Conclusion,
 By addressing these factors, the U.S. can maintain energy security, optimize resources, and strengthen its global energy leadership.
-
-
