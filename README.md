@@ -1,9 +1,16 @@
 ## U.S. Energy Trends Analysis: Production, Consumption, and Renewable Growth (2023) 
 
+---
+
 ## Table of contents
 - [Introduction](#introduction)
 - [Key Observations](#key-observations)
 - [Key Factors Contributing to the Decline in Consumption](#key-factors-contributing-to-the-decline-in-consumption)
+- [Strategic Recommendations](#strategic-recommendations)
+
+
+  ---
+  
 ## Introduction
 This project focuses on analyzing U.S. energy production and consumption trends, with a particular emphasis on the significant decline in energy consumption observed in 2023. The data was carefully cleaned by removing null values to ensure accuracy and reliability. Power BI was utilized for both data cleaning and in-depth analysis, enabling clear visualizations and actionable insights. By leveraging this approach, the project identifies key factors driving changes in energy demand, production efficiency, and the transition toward renewable energy sources.
 
